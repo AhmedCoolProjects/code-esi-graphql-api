@@ -42,3 +42,7 @@ under `graphql/resolvers.js` we can find all the translated queries and mutation
 ## Deployement
 
 The API is deployed on Heroku as an Apollo GraphQL Server, where we can communicate with using Apollo Studio or Apollo Client in the frontend application [codeesi.com](https://codeesi.com)
+
+## Visit my portfolio
+
+[Ahmed Bargady](https://ahmedbargady.me)
