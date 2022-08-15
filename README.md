@@ -1,4 +1,4 @@
-# CODE ESI BACKEND
+# CODE ESI GraphQL API
 
 ## About the project
 
